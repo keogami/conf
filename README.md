@@ -1,5 +1,5 @@
 # Conf
-I don't remember where the paths for my .configs, but conf does. Just tell it to alias the path you want it to remember:
+I don't know where my configs are, but conf does. Just tell it to alias the path you want it to remember:
 
 ```bash
 conf alias hypr ~/.config/hypr
